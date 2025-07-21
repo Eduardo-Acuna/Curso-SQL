@@ -1,4 +1,4 @@
--- CLASE X: FUNCIONES DE AGREGACIÓN EN MYSQL
+-- CLASE 3: FUNCIONES DE AGREGACIÓN EN MYSQL
 -- Introducción a las funciones de agregación más comunes utilizadas en consultas SQL
 
 ------------------------------------------------------------
@@ -71,5 +71,4 @@ HAVING total_stock > 100;
 -- HAVING se usa después de GROUP BY para filtrar los resultados agregados.
 -- WHERE se usa antes de agrupar para filtrar filas individuales.
 
--- FIN DE CLASE X
-counnt, sum,min y max, averge
+-- FIN DE CLASE 3
